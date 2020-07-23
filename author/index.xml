@@ -29,5 +29,14 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
+    <item>
+      <title>Robert Grzelka</title>
+      <link>//ralf-it.pl/author/robert-grzelka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//ralf-it.pl/author/robert-grzelka/</guid>
+      <description>Od połowy 2019 do połowy 2020 przygotowywał się do realizacji własnych przedsięwzięć, pogłębiając wiedzę techniczną niezbędną do utworzenia technologicznych startupów.</description>
+    </item>
+    
   </channel>
 </rss>

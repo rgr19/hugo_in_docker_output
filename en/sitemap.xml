@@ -224,6 +224,10 @@
   </url>
   
   <url>
+    <loc>//ralf-it.pl/author/robert-grzelka/</loc>
+  </url>
+  
+  <url>
     <loc>//ralf-it.pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
