@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-8/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-8/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/</loc>
+    <loc>//rgr19.github.io/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/installation/</loc>
+    <loc>//rgr19.github.io/blog/installation/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/</loc>
+    <loc>//rgr19.github.io/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,55 +28,83 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//rgr19.github.io/en/"
+                href="//rgr19.github.io/"
                 />
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-1/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-1/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-2/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-2/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-3/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-3/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-4/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-4/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-5/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-5/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-6/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-6/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/blog/simple-blog-post-7/</loc>
+    <loc>//rgr19.github.io/blog/simple-blog-post-7/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/author/</loc>
+    <loc>//rgr19.github.io/author/</loc>
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/author/john-doe/</loc>
+    <loc>//rgr19.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//rgr19.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//rgr19.github.io/categories/"
+                />
   </url>
   
   <url>
-    <loc>//rgr19.github.io/en/author/mark-dinn/</loc>
+    <loc>//rgr19.github.io/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>//rgr19.github.io/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>//rgr19.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//rgr19.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//rgr19.github.io/tags/"
+                />
   </url>
   
 </urlset>

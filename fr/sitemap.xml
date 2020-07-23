@@ -3,16 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//rgr19.github.io/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//rgr19.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//rgr19.github.io/fr/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>//rgr19.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//rgr19.github.io/en/"
+                href="//rgr19.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="//rgr19.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>//rgr19.github.io/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//rgr19.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//rgr19.github.io/fr/tags/"
                 />
   </url>
   
